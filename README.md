@@ -4,7 +4,7 @@ A lot of different projects that I had to do for school.
 * Snake Game
 * RGB Predictor
 # Time Line
-5/5/18, 15:15-16:30
+~~~5/5/18, 15:15-16:30
 5/6/18, 10:00-11:00
 5/6/18, 11:45-12:45
 ~~~Scrapped Idea, couldn't figure something out~~~
